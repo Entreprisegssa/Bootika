@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667656625654",
+    "project_id": "bootika-eb4fe",
+    "storage_bucket": "bootika-eb4fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667656625654:android:86421135651af425dc7bd7",
+        "android_client_info": {
+          "package_name": "com.example.bootika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwOgVLDTth071sXGRvRzUeeP01TmPZsoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
